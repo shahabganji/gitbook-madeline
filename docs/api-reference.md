@@ -2,6 +2,6 @@
 description: API
 ---
 
-**API Reference**
+# API Reference
 
 HF.
