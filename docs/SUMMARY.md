@@ -1,4 +1,6 @@
-# Table of content 
+# Table of contents
 
-* [Getting Started](docs/getting-started.md)
-* [API Reference](docs/api-reference.md)
+* [Introduction](../README.md)
+* [Getting Started](../getting-started.md)
+* [API Reference](../api-reference.md)
+
