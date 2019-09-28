@@ -1,3 +1,3 @@
 # Kernel
 
-[transientDecorator](kernel/di/functions/transientdecorator.md)
+[transientDecorator](https://gitbook-18.gitbook.io/au/kernel/di/functions/transientdecorator.md)
