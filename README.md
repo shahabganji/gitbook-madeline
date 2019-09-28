@@ -1,6 +1,8 @@
 # Why Aurelia
 
-![](.gitbook/assets/aurelia-js-logo.png)
+![aurelia](https://aurelia.io/styles/images/aurelia-icon.svg)
+
+<p aria-label="Whats up!" data-balloon-pos="up">Hello World</p>
 
 **Easy to Learn**
 
