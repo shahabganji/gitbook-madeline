@@ -1,9 +1,14 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [API Reference](api-reference.md)
-* [part-1](part-1/README.md)
-  * [Page 1](part-1/page-1/README.md)
-    * [Page 1-1](part-1/page-1/page-1-1.md)
-  * [Page 2](part-1/untitled-1.md)
+* [Why Aurelia](README.md)
+* [Kernel](kernel/README.md)
+  * [DI](kernel/di/README.md)
+    * [Enums](kernel/di/enums/README.md)
+        * [ResolverStrategy](kernel/di/enums/ResolverStrategy.md)
+    * [Functions](kernel/di/functions/README.md)
+        * [createResolver](kernel/di/functions/createResolver.md)
+        * [transientDecorator](kernel/di/functions/transientDecorator.md)
+  * [Event Aggregator](kernel/eventaggregator/README.md)
+    * [Type Aliases](kernel/eventaggregator/typeAliases/README.md)
+        * [ResolverStrategy](kernel/eventaggregator/typeAliases/EventAggregatorCallback.md)
 
