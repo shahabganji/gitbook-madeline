@@ -10,5 +10,5 @@
         * [transientDecorator](kernel/di/functions/transientDecorator.md)
   * [Event Aggregator](kernel/eventaggregator/README.md)
     * [Type Aliases](kernel/eventaggregator/typeAliases/README.md)
-        * [ResolverStrategy](kernel/eventaggregator/typeAliases/EventAggregatorCallback.md)
+        * [EventAggregatorCallback](kernel/eventaggregator/typeAliases/EventAggregatorCallback.md)
 
