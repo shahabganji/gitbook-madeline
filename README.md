@@ -2,6 +2,8 @@
 
 ![](.gitbook/assets/aurelia-js-logo.png)
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 **Easy to Learn**
 
 Aurelia's standards-based, unobtrusive style makes it the only framework that empowers you to build components using vanilla JavaScript or TypeScript. If you know modern JS and HTML, there's little more to learn to build even the most complex apps.
