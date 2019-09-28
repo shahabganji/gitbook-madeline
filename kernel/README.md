@@ -1,3 +1,3 @@
 # Kernel
 
-[transientDecorator](kernel/di/functions/transientdecorator.md
+[transientDecorator](kernel/di/functions/transientdecorator.md)
