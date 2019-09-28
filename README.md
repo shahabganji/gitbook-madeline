@@ -1,6 +1,6 @@
 # Why Aurelia
 
-![aurelia](https://aurelia.io/styles/images/aurelia-icon.svg)
+![](.gitbook/assets/aurelia-js-logo.png)
 
 **Easy to Learn**
 
