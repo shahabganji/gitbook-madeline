@@ -12,6 +12,13 @@ string
 
 ✘ Generator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Overload
 
+|             |         Value                |
+|-------------|:-----------------------:|
+| Name        | stringifyLifecycleFlags |
+| Retrun Type |          string         |
+| Attributes  | ✘ Generator  ✔ Overload |
+
+
 ❱❱&nbsp;&nbsp;**Parameters:**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ```
