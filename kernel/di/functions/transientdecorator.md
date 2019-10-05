@@ -1,10 +1,12 @@
 # transientDecorator
 
+## Decorators
+
 **Name:** test1
 
 **Attributes:**
 
-☑ Decorator Factory
+✔ Decorator Factory
 
 **Parameters:**
 
@@ -19,3 +21,5 @@
 ```
 {w:2}
 ```
+
+
