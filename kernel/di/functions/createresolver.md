@@ -1,4 +1,4 @@
-# createResolver
+# stringifyLifecycleFlags
 
 **Name:**
 stringifyLifecycleFlags
