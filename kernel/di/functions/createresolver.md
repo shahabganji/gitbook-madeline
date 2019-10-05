@@ -12,7 +12,7 @@ string
 
 ✘ Generator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Overload
 
-|             |         Value                |
+|             |                         |
 |-------------|:-----------------------:|
 | Name        | stringifyLifecycleFlags |
 | Retrun Type |          string         |
