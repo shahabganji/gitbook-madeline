@@ -6,7 +6,7 @@
     * [Enums](kernel/di/enums/README.md)
       * [ResolverStrategy](kernel/di/enums/resolverstrategy.md)
     * [Functions](kernel/di/functions/README.md)
-      * [createResolver](kernel/di/functions/createresolver.md)
+      * [stringifyLifecycleFlags](kernel/di/functions/createresolver.md)
       * [transientDecorator](kernel/di/functions/transientdecorator.md)
   * [Event Aggregator](kernel/eventaggregator/README.md)
     * [Type Aliases](kernel/eventaggregator/type-aliases/README.md)
