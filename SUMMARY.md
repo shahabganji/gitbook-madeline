@@ -2,7 +2,7 @@
 
 * [Why Aurelia](README.md)
 * [Kernel](kernel/README.md)
-  * [DI](kernel/di/README.md)
+  * [DI]()
     * [Enums](kernel/di/enums/README.md)
       * [ResolverStrategy](kernel/di/enums/resolverstrategy.md)
     * [Functions](kernel/di/functions/README.md)
