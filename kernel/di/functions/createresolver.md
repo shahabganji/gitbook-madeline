@@ -1,19 +1,33 @@
 # createResolver
 
-**Name:** test1
+**Name:**
 
-✓ Decorator Factory
+stringifyLifecycleFlags
 
-**Parameters:**
+**Return Type:**
 
+string
+
+**Attributes:**
+
+✘ Generator
+
+✔ Overload
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Parameters:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ```
-1
+flags
 ```
 
-```
-'A'
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type:**
 
-```
-{w:2}
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LifecycleFlags](https://gitbook-18.gitbook.io/au/runtime/flags/enums/lifecycleflags)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Attributes:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✘ Optional
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✘ Rest
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✘ Parameter Property
