@@ -10,7 +10,7 @@ string
 
 **Attributes:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✘ Generator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Overload
+✘ Generator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Overload
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Parameters:**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
