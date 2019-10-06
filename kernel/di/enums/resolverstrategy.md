@@ -1,8 +1,8 @@
 # ResolverStrategy
 
-| type        	| name 	 | modifiers              	|
-|:-------------	|:------:|------------------------:	|
-| `module`    	|        sdfsdf                     |
-| `namespace` 	| NS2  	| `export`dfgsdfgsdfgsdg  	|
-|         bvnvbnvbnvbnssdfgsdfgsdfgsdfgsdgv         |
-| `namespace` 	| NS4  	| -                       	|
+|            	|  value                         |
+|:-------------	|:------------------------------:|
+| Name    	    |        X                       |
+| Type                                           |
+| Zsdfasdfasdfdfdfggsdfgsdfgsdgsdg               |
+| Attributes 	| ✘ Generator   ✔ Overload   | 
