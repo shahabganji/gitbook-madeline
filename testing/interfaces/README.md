@@ -1,0 +1,5 @@
+        * [IAssertionErrorOpts](https://gitbook-18.gitbook.io/au/testing/interfaces/iassertionerroropts)
+        * [IInspectContext](https://gitbook-18.gitbook.io/au/testing/interfaces/iinspectcontext)
+        * [IInspectOptions](https://gitbook-18.gitbook.io/au/testing/interfaces/iinspectoptions)
+        * [MockServiceLocator](https://gitbook-18.gitbook.io/au/testing/interfaces/mockservicelocator)
+        * [MockSignaler](https://gitbook-18.gitbook.io/au/testing/interfaces/mocksignaler)

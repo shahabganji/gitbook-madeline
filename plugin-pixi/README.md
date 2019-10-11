@@ -1,0 +1,6 @@
+    * [Literals](https://gitbook-18.gitbook.io/au/plugin-pixi/literals/README)
+        * [DefaultResources](https://gitbook-18.gitbook.io/au/plugin-pixi/literals/defaultresources)
+        * [PixiConfiguration](https://gitbook-18.gitbook.io/au/plugin-pixi/literals/pixiconfiguration)
+    * [Variables](https://gitbook-18.gitbook.io/au/plugin-pixi/variables/README)
+        * [PixiAppRegistration](https://gitbook-18.gitbook.io/au/plugin-pixi/variables/pixiappregistration)
+        * [PixiSpriteRegistration](https://gitbook-18.gitbook.io/au/plugin-pixi/variables/pixispriteregistration)

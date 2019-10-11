@@ -1,0 +1,84 @@
+**Name:**
+
+ExpressionKind
+
+**Modifiers:**
+
+export, const
+
+**Members:**
+
+Connects = 0b000000000001_00000
+
+Observes = 0b000000000010_00000
+
+CallsFunction = 0b000000000100_00000
+
+HasAncestor = 0b000000001000_00000
+
+IsPrimary = 0b000000010000_00000
+
+IsLeftHandSide = 0b000000100000_00000
+
+HasBind = 0b000001000000_00000
+
+HasUnbind = 0b000010000000_00000
+
+IsAssignable = 0b000100000000_00000
+
+IsLiteral = 0b001000000000_00000
+
+IsResource = 0b010000000000_00000
+
+IsForDeclaration = 0b100000000000_00000
+
+Type = 0b000000000000_11111
+
+AccessThis = 0b000000111000_00001
+
+AccessScope = 0b000100111011_00010
+
+ArrayLiteral = 0b001000110001_00011
+
+ObjectLiteral = 0b001000110001_00100
+
+PrimitiveLiteral = 0b001000110000_00101
+
+Template = 0b001000110001_00110
+
+Unary = 0b000000000001_00111
+
+CallScope = 0b000000101101_01000
+
+CallMember = 0b000000100100_01001
+
+CallFunction = 0b000000100100_01010
+
+AccessMember = 0b000100100011_01011
+
+AccessKeyed = 0b000100100011_01100
+
+TaggedTemplate = 0b000000100101_01101
+
+Binary = 0b000000000001_01110
+
+Conditional = 0b000000000001_11111
+
+Assign = 0b000100000000_10000
+
+ValueConverter = 0b010010000001_10001
+
+BindingBehavior = 0b010011000001_10010
+
+HtmlLiteral = 0b000000000001_10011
+
+ArrayBindingPattern = 0b100000000000_10100
+
+ObjectBindingPattern = 0b100000000000_10101
+
+BindingIdentifier = 0b100000000000_10110
+
+ForOfStatement = 0b000011000001_10111
+
+Interpolation = 0b000000000000_11000
+

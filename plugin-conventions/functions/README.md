@@ -1,0 +1,6 @@
+        * [nameConvention](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/nameconvention)
+        * [preprocess](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/preprocess)
+        * [preprocessHtmlTemplate](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/preprocesshtmltemplate)
+        * [preprocessOptions](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/preprocessoptions)
+        * [preprocessResource](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/preprocessresource)
+        * [stripMetaData](https://gitbook-18.gitbook.io/au/plugin-conventions/functions/stripmetadata)

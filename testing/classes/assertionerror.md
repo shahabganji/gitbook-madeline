@@ -1,0 +1,6 @@
+**Name:** AssertionError
+
+**Extends:**
+
+Error
+

@@ -1,0 +1,7 @@
+        * [attributePattern](https://gitbook-18.gitbook.io/au/jit/functions/attributepattern)
+        * [bindingCommand](https://gitbook-18.gitbook.io/au/jit/functions/bindingcommand)
+        * [bindingCommand](https://gitbook-18.gitbook.io/au/jit/functions/bindingcommand)
+        * [bindingCommand](https://gitbook-18.gitbook.io/au/jit/functions/bindingcommand)
+        * [getTarget](https://gitbook-18.gitbook.io/au/jit/functions/gettarget)
+        * [parseExpression](https://gitbook-18.gitbook.io/au/jit/functions/parseexpression)
+        * [unescapeCode](https://gitbook-18.gitbook.io/au/jit/functions/unescapecode)

@@ -1,0 +1,5 @@
+        * [arrayRemove](https://gitbook-18.gitbook.io/au/router/functions/arrayremove)
+        * [closestCustomElement](https://gitbook-18.gitbook.io/au/router/functions/closestcustomelement)
+        * [lifecycleLogger](https://gitbook-18.gitbook.io/au/router/functions/lifecyclelogger)
+        * [mergeParameters](https://gitbook-18.gitbook.io/au/router/functions/mergeparameters)
+        * [parseQuery](https://gitbook-18.gitbook.io/au/router/functions/parsequery)

@@ -1,0 +1,5 @@
+        * [DI](https://gitbook-18.gitbook.io/au/kernel/classes/di)
+        * [EventAggregator](https://gitbook-18.gitbook.io/au/kernel/classes/eventaggregator)
+        * [InstanceProvider](https://gitbook-18.gitbook.io/au/kernel/classes/instanceprovider)
+        * [ParameterizedRegistry](https://gitbook-18.gitbook.io/au/kernel/classes/parameterizedregistry)
+        * [RuntimeCompilationResources](https://gitbook-18.gitbook.io/au/kernel/classes/runtimecompilationresources)

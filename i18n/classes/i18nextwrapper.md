@@ -1,0 +1,2 @@
+**Name:** I18nextWrapper
+

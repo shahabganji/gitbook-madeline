@@ -1,0 +1,6 @@
+        * [GotoCustomAttributeRegistration](https://gitbook-18.gitbook.io/au/router/variables/gotocustomattributeregistration)
+        * [IRouteTransformer](https://gitbook-18.gitbook.io/au/router/variables/iroutetransformer)
+        * [IRouter](https://gitbook-18.gitbook.io/au/router/variables/irouter)
+        * [NavCustomElementRegistration](https://gitbook-18.gitbook.io/au/router/variables/navcustomelementregistration)
+        * [RouterRegistration](https://gitbook-18.gitbook.io/au/router/variables/routerregistration)
+        * [ViewportCustomElementRegistration](https://gitbook-18.gitbook.io/au/router/variables/viewportcustomelementregistration)

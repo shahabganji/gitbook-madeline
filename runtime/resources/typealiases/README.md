@@ -1,0 +1,5 @@
+            * [BindingBehaviorDecorator](https://gitbook-18.gitbook.io/au/runtime/resources/typealiases/bindingbehaviordecorator)
+            * [CustomAttributeConstructor](https://gitbook-18.gitbook.io/au/runtime/resources/typealiases/customattributeconstructor)
+            * [CustomAttributeDecorator](https://gitbook-18.gitbook.io/au/runtime/resources/typealiases/customattributedecorator)
+            * [CustomElementHost](https://gitbook-18.gitbook.io/au/runtime/resources/typealiases/customelementhost)
+            * [ValueConverterDecorator](https://gitbook-18.gitbook.io/au/runtime/resources/typealiases/valueconverterdecorator)
